@@ -4,3 +4,18 @@
 /Demographic data
 /kaggle internet users data
 /untitled.txt
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+.secrets/
